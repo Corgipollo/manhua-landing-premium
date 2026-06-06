@@ -1,0 +1,15 @@
+# robots.txt for manhua-landing-premium
+# Allow all crawlers
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://corgipollo.github.io/manhua-landing-premium/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow crawling of specific file types (if needed in future)
+# User-agent: *
+# Disallow: /*.zip$
